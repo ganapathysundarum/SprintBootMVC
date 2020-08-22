@@ -1,0 +1,11 @@
+logging:
+   level:
+      org.springframework: DEBUG
+app:
+   name: Gana Zone	
+welcome:
+   message: Welcome message from property file ! welcome to ${app.name}
+basic: 
+   value: false
+   message: Dynamic Message YAML
+   number: 200

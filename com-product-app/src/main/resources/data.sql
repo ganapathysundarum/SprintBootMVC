@@ -1,0 +1,9 @@
+insert into product(id,name,type,brand,retail_price,weight,size,manufactured,expiry) values(100001,'Urad Dal','Food','Udhayam',200,1000,'GM',CURRENT_TIMESTAMP,CURRENT_TIMESTAMP);
+insert into product(id,name,type,brand,retail_price,weight,size,manufactured,expiry) values(100002,'3 Roses','Beverage','UTC',55,200,'GM',CURRENT_TIMESTAMP,CURRENT_TIMESTAMP);
+insert into product(id,name,type,brand,retail_Price,weight,size,manufactured,expiry) values(100003,'Carrot','Vegetables','Natural',35,1000,'GM',CURRENT_TIMESTAMP,CURRENT_TIMESTAMP);
+insert into product(id,name,type,brand,retail_price,weight,size,manufactured,expiry) values(100004,'Jeera','Food','KRC',23,50,'GM',CURRENT_TIMESTAMP,CURRENT_TIMESTAMP);
+insert into product(id,name,type,brand,retail_price,weight,size,manufactured,expiry) values(100005,'Raw Wheat','Food','Murugan',55,1000,'GM',CURRENT_TIMESTAMP,CURRENT_TIMESTAMP);
+insert into product(id,name,type,brand,retail_Price,weight,size,manufactured,expiry) values(100006,'Noodles Veg','Food','Maggi',10,100,'GM',CURRENT_TIMESTAMP,CURRENT_TIMESTAMP);
+insert into product(id,name,type,brand,retail_price,weight,size,manufactured,expiry) values(100007,'Tomato Jam','Food','Kissan',181,750,'Litre',CURRENT_TIMESTAMP,CURRENT_TIMESTAMP);
+insert into product(id,name,type,brand,retail_price,weight,size,manufactured,expiry) values(100008,'Coriander','Food','Murugan',10,100,'GM',CURRENT_TIMESTAMP,CURRENT_TIMESTAMP);
+insert into product(id,name,type,brand,retail_Price,weight,size,manufactured,expiry) values(100009,'Curry Leaves','Food','Murugan',20,100,'GM',CURRENT_TIMESTAMP,CURRENT_TIMESTAMP);
