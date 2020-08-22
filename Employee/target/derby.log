@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Aug 16 15:57:15 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0173-f6cf-1c5a-000006f83858 
+on database directory memory:E:\Gana\workspaces\JavaFullStack\Employee\target\testdb with class loader org.springframework.boot.loader.LaunchedURLClassLoader@38af3868 
+Loaded from jar:file:/E:/Gana/workspaces/JavaFullStack/Employee/target/Employee-0.0.1-SNAPSHOT.war!/WEB-INF/lib/derby-10.13.1.1.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_261-b12
+user.dir=E:\Gana\workspaces\JavaFullStack\Employee\target
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
